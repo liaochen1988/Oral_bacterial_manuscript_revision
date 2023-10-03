@@ -1,0 +1,5 @@
+"F_Day_0_Control_C_Control_2C: fecal sample before treatment (No treatment)"	"O_Day_0_Control_C_Control_2C: oral sample before treatment (No treatment)"	"Unknown"
+"O_Day_7_Control_C_Control_2C: oral sample at w1 post treatment (No treatment)"	0.0903196448537815	0.488940225329614	0.420740129816605
+"F_Day_3_Control_C_Control_2C: fecal sample at d3 post treatment (No treatment)"	0.927193004276474	8.40283402653986e-05	0.0727229673832609
+"F_Day_7_Control_C_Control_2C: fecal sample at w1 post treatment (No treatment)"	0.847316829898465	0.000776618012007566	0.151906552089527
+"O_Day_3_Control_C_Control_2C: oral sample at d3 post treatment (No treatment)"	0.188807381381496	0.392266546164806	0.418926072453698

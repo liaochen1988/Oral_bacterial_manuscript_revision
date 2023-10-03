@@ -1,0 +1,3 @@
+"F_Day_0_Abx_C_Abx_2C: fecal sample before treatment (Antibiotic)"	"O_Day_0_Abx_C_Abx_2C: oral sample before treatment (Antibiotic)"	"Unknown"
+"F_Day_3_Abx_C_Abx_2C: fecal sample at d3 post treatment (Antibiotic)"	0.448423725329337	0.100378880750428	0.451197393920235
+"O_Day_3_Abx_C_Abx_2C: oral sample at d3 post treatment (Antibiotic)"	0.0856211799226115	0.296925929246227	0.617452890831162

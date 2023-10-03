@@ -1,0 +1,5 @@
+"F_Day_0_DSS_B_DSS_2B: fecal sample before treatment (DSS)"	"O_Day_0_DSS_B_DSS_2B: oral sample before treatment (DSS)"	"Unknown"
+"O_Day_3_DSS_B_DSS_2B: oral sample at d3 post treatment (DSS)"	0.0953082968438555	0.214129198149817	0.690562505006328
+"F_Day_7_DSS_B_DSS_2B: fecal sample at w1 post treatment (DSS)"	0.582695804361466	2.94250042083181e-05	0.417274770634325
+"F_Day_3_DSS_B_DSS_2B: fecal sample at d3 post treatment (DSS)"	0.618068955208481	0.000234498920680754	0.381696545870838
+"O_Day_7_DSS_B_DSS_2B: oral sample at w1 post treatment (DSS)"	0.272906260746653	0.121926738052522	0.605167001200825
