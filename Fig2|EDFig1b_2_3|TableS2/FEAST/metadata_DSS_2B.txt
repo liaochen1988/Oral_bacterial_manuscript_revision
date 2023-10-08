@@ -1,7 +1,7 @@
 SampleID	Env	SourceSink	id
 F_Day_0_DSS_B	DSS_2B: fecal sample before treatment (DSS)	Source	NA
 O_Day_0_DSS_B	DSS_2B: oral sample before treatment (DSS)	Source	NA
-O_Day_3_DSS_B	DSS_2B: oral sample at d3 post treatment (DSS)	Sink	1
-O_Day_7_DSS_B	DSS_2B: oral sample at w1 post treatment (DSS)	Sink	2
-F_Day_7_DSS_B	DSS_2B: fecal sample at w1 post treatment (DSS)	Sink	3
-F_Day_3_DSS_B	DSS_2B: fecal sample at d3 post treatment (DSS)	Sink	4
+F_Day_3_DSS_B	DSS_2B: fecal sample at d3 post treatment (DSS)	Sink	1
+F_Day_7_DSS_B	DSS_2B: fecal sample at w1 post treatment (DSS)	Sink	2
+O_Day_7_DSS_B	DSS_2B: oral sample at w1 post treatment (DSS)	Sink	3
+O_Day_3_DSS_B	DSS_2B: oral sample at d3 post treatment (DSS)	Sink	4

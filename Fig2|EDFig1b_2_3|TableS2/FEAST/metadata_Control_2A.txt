@@ -1,7 +1,7 @@
 SampleID	Env	SourceSink	id
 F_Day_0_Control_A	Control_2A: fecal sample before treatment (No treatment)	Source	NA
 O_Day_0_Control_A	Control_2A: oral sample before treatment (No treatment)	Source	NA
-F_Day_7_Control_A	Control_2A: fecal sample at w1 post treatment (No treatment)	Sink	1
-O_Day_7_Control_A	Control_2A: oral sample at w1 post treatment (No treatment)	Sink	2
-O_Day_3_Control_A	Control_2A: oral sample at d3 post treatment (No treatment)	Sink	3
-F_Day_3_Control_A	Control_2A: fecal sample at d3 post treatment (No treatment)	Sink	4
+F_Day_3_Control_A	Control_2A: fecal sample at d3 post treatment (No treatment)	Sink	1
+F_Day_7_Control_A	Control_2A: fecal sample at w1 post treatment (No treatment)	Sink	2
+O_Day_7_Control_A	Control_2A: oral sample at w1 post treatment (No treatment)	Sink	3
+O_Day_3_Control_A	Control_2A: oral sample at d3 post treatment (No treatment)	Sink	4
