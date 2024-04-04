@@ -1,5 +1,0 @@
-SampleID	Env	SourceSink	id
-F_Day_0_Abx_C	Abx_2C: fecal sample before treatment (Antibiotic)	Source	NA
-O_Day_0_Abx_C	Abx_2C: oral sample before treatment (Antibiotic)	Source	NA
-F_Day_3_Abx_C	Abx_2C: fecal sample at d3 post treatment (Antibiotic)	Sink	1
-O_Day_3_Abx_C	Abx_2C: oral sample at d3 post treatment (Antibiotic)	Sink	2

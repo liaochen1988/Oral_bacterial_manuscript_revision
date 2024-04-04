@@ -1,207 +1,241 @@
-SampleID,BodySite,HostDisease,LibraryName,SampleName,SubjectID,Disease
-SRR13302275,stool,periodontitis positive,CDGut_8,JI0168,CD_08,CD
-SRR13302276,stool,periodontitis positive,CDGut_9,JI0170,CD_09,CD
-SRR13302277,stool,periodontitis positive,CDGut_10,JI0171,CD_10,CD
-SRR13302278,stool,periodontitis negative,CDGut_11,JI0172,CD_11,CD
-SRR13302279,stool,periodontitis positive,CDGut_12,JI0173,CD_12,CD
-SRR13302280,stool,periodontitis negative,CDGut_13,JI0174,CD_13,CD
-SRR13302281,stool,periodontitis positive,CDGut_14,JI0175,CD_14,CD
-SRR13302282,stool,periodontitis negative,CDGut_15,JI0176,CD_15,CD
-SRR13302283,stool,periodontitis positive,UCGut_20,JI0199,UC_20,UC
-SRR13302284,stool,periodontitis positive,UCGut_21,JI0200,UC_21,UC
-SRR13302285,stool,periodontitis positive,UCGut_22,JI0201,UC_22,UC
-SRR13302286,stool,periodontitis negative,UCGut_23,JI0202,UC_23,UC
-SRR13302287,stool,periodontitis positive,UCGut_24,JI0203,UC_24,UC
-SRR13302288,stool,periodontitis positive,UCGut_25,JI0204,UC_25,UC
-SRR13302289,stool,periodontitis positive,UCGut_26,JI0206,UC_26,UC
-SRR13302290,stool,periodontitis negative,UCGut_27,JI0207,UC_27,UC
-SRR13302291,stool,periodontitis negative,UCGut_30,JI0210,UC_30,UC
-SRR13302292,stool,periodontitis positive,UCGut_31,JI0211,UC_31,UC
-SRR13302293,stool,periodontitis positive,UCGut_32,JI0212,UC_32,UC
-SRR13302294,stool,periodontitis positive,UCGut_33,JI0213,UC_33,UC
-SRR13302295,stool,periodontitis negative,UCGut_34,JI0214,UC_34,UC
-SRR13302296,stool,periodontitis positive,Gut_5,JI0118,HC_05,HC
-SRR13302297,stool,periodontitis negative,Gut_6,JI0119,HC_06,HC
-SRR13302298,stool,periodontitis negative,Gut_7,JI0120,HC_07,HC
-SRR13302299,stool,periodontitis negative,CDGut_16,JI0177,CD_16,CD
-SRR13302300,stool,periodontitis negative,UCGut_1,JI0180,UC_01,UC
-SRR13302301,stool,periodontitis negative,UCGut_2,JI0181,UC_02,UC
-SRR13302302,stool,periodontitis negative,UCGut_3,JI0182,UC_03,UC
-SRR13302303,stool,periodontitis negative,UCGut_4,JI0183,UC_04,UC
-SRR13302304,stool,periodontitis positive,UCGut_5,JI0184,UC_05,UC
-SRR13302305,stool,periodontitis negative,Gut_30,JI0143,HC_30,HC
-SRR13302306,stool,periodontitis negative,Gut_4,JI0117,HC_04,HC
-SRR13302307,stool,periodontitis negative,Gut_31,JI0144,HC_31,HC
-SRR13302308,stool,periodontitis positive,Gut_32,JI0145,HC_32,HC
-SRR13302309,stool,periodontitis positive,Gut_33,JI0146,HC_33,HC
-SRR13302310,stool,periodontitis positive,Gut_34,JI0147,HC_34,HC
-SRR13302311,stool,periodontitis negative,Gut_35,JI0148,HC_35,HC
-SRR13302312,stool,periodontitis positive,Gut_36,JI0150,HC_36,HC
-SRR13302313,stool,periodontitis positive,UCGut_28,JI0208,UC_28,UC
-SRR13302314,stool,periodontitis negative,UCGut_29,JI0209,UC_29,UC
-SRR13302315,stool,periodontitis positive,Gut_10,JI0123,HC_10,HC
-SRR13302316,stool,periodontitis negative,UCGut_35,JI0215,UC_35,UC
-SRR13302317,stool,periodontitis negative,UCGut_36,JI0216,UC_36,UC
-SRR13302318,stool,periodontitis negative,UCGut_37,JI0217,UC_37,UC
-SRR13302319,stool,periodontitis positive,UCGut_38,JI0218,UC_38,UC
-SRR13302320,stool,periodontitis positive,UCGut_39,JI0219,UC_39,UC
-SRR13302321,stool,periodontitis positive,Gut_14,JI0127,HC_14,HC
-SRR13302322,stool,periodontitis negative,Gut_13,JI0126,HC_13,HC
-SRR13302323,stool,periodontitis negative,Gut_12,JI0125,HC_12,HC
-SRR13302324,stool,periodontitis positive,UCGut_42,JI0224,UC_42,UC
-SRR13302325,stool,periodontitis positive,UCGut_41,JI0221,UC_41,UC
-SRR13302326,stool,periodontitis positive,UCGut_40,JI0220,UC_40,UC
-SRR13302327,stool,periodontitis positive,Gut_11,JI0124,HC_11,HC
-SRR13302328,stool,periodontitis negative,Gut_2,JI0115,HC_02,HC
-SRR13302329,stool,periodontitis negative,UCGut_6,JI0185,UC_06,UC
-SRR13302330,stool,periodontitis negative,UCGut_7,JI0186,UC_07,UC
-SRR13302331,stool,periodontitis negative,UCGut_8,JI0187,UC_08,UC
-SRR13302332,stool,periodontitis positive,UCGut_9,JI0188,UC_09,UC
-SRR13302333,stool,periodontitis positive,Gut_8,JI0121,HC_08,HC
-SRR13302334,stool,periodontitis positive,UCGut_10,JI0189,UC_10,UC
-SRR13302335,stool,periodontitis positive,UCGut_11,JI0190,UC_11,UC
-SRR13302336,stool,periodontitis negative,UCGut_12,JI0191,UC_12,UC
-SRR13302337,stool,periodontitis positive,Gut_37,JI0151,HC_37,HC
-SRR13302338,stool,periodontitis negative,Gut_38,JI0152,HC_38,HC
-SRR13302339,stool,periodontitis negative,Gut_39,JI0153,HC_39,HC
-SRR13302340,stool,periodontitis negative,Gut_40,JI0154,HC_40,HC
-SRR13302341,stool,periodontitis negative,Gut_41,JI0155,HC_41,HC
-SRR13302342,stool,periodontitis negative,Gut_42,JI0156,HC_42,HC
-SRR13302343,stool,periodontitis negative,Gut_43,JI0157,HC_43,HC
-SRR13302344,stool,periodontitis positive,Gut_44,JI0158,HC_44,HC
-SRR13302345,stool,periodontitis negative,Gut_45,JI0159,HC_45,HC
-SRR13302346,stool,periodontitis positive,CDGut_1,JI0160,CD_01,CD
-SRR13302347,stool,periodontitis positive,CDGut_2,JI0161,CD_02,CD
-SRR13302348,stool,periodontitis positive,CDGut_3,JI0162,CD_03,CD
-SRR13302349,stool,periodontitis negative,CDGut_4,JI0163,CD_04,CD
-SRR13302350,stool,periodontitis negative,CDGut_5,JI0165,CD_05,CD
-SRR13302351,stool,periodontitis positive,CDGut_6,JI0166,CD_06,CD
-SRR13302352,stool,periodontitis positive,CDGut_7,JI0167,CD_07,CD
-SRR13302353,stool,periodontitis negative,Gut_1,JI0114,HC_01,HC
-SRR13302354,stool,periodontitis positive,Gut_15,JI0128,HC_15,HC
-SRR13302355,stool,periodontitis positive,Gut_16,JI0129,HC_16,HC
-SRR13302356,stool,periodontitis negative,Gut_17,JI0130,HC_17,HC
-SRR13302357,stool,periodontitis negative,Gut_18,JI0131,HC_18,HC
-SRR13302358,stool,periodontitis negative,Gut_19,JI0132,HC_19,HC
-SRR13302359,stool,periodontitis positive,Gut_20,JI0133,HC_20,HC
-SRR13302360,stool,periodontitis positive,Gut_3,JI0116,HC_03,HC
-SRR13302361,stool,periodontitis negative,Gut_21,JI0134,HC_21,HC
-SRR13302362,stool,periodontitis negative,UCGut_13,JI0192,UC_13,UC
-SRR13302363,stool,periodontitis negative,UCGut_14,JI0193,UC_14,UC
-SRR13302364,stool,periodontitis negative,UCGut_15,JI0194,UC_15,UC
-SRR13302365,stool,periodontitis positive,UCGut_16,JI0195,UC_16,UC
-SRR13302366,stool,periodontitis negative,UCGut_17,JI0196,UC_17,UC
-SRR13302367,stool,periodontitis positive,UCGut_18,JI0197,UC_18,UC
-SRR13302368,stool,periodontitis positive,UCGut_19,JI0198,UC_19,UC
-SRR13302369,stool,periodontitis positive,Gut_9,JI0122,HC_09,HC
-SRR13302370,stool,periodontitis positive,Gut_22,JI0135,HC_22,HC
-SRR13302371,stool,periodontitis positive,Gut_23,JI0136,HC_23,HC
-SRR13302372,stool,periodontitis positive,Gut_24,JI0137,HC_24,HC
-SRR13302373,stool,periodontitis positive,Gut_25,JI0138,HC_25,HC
-SRR13302374,stool,periodontitis negative,Gut_26,JI0139,HC_26,HC
-SRR13302375,stool,periodontitis negative,Gut_27,JI0140,HC_27,HC
-SRR13302376,stool,periodontitis positive,Gut_28,JI0141,HC_28,HC
-SRR13302377,stool,periodontitis negative,Gut_29,JI0142,HC_29,HC
-SRR13261717,saliva,periodontitis positive,Mouth_36,JI0037,HC_36,HC
-SRR13261718,saliva,periodontitis negative,Mouth_35,JI0035,HC_35,HC
-SRR13261720,saliva,periodontitis positive,Mouth_33,JI0033,HC_33,HC
-SRR13261722,saliva,periodontitis negative,Mouth_31,JI0031,HC_31,HC
-SRR13261724,saliva,periodontitis negative,Mouth_30,JI0030,HC_30,HC
-SRR13261725,saliva,periodontitis negative,Mouth_29,JI0029,HC_29,HC
-SRR13261726,saliva,periodontitis positive,Mouth_28,JI0028,HC_28,HC
-SRR13261727,saliva,periodontitis negative,Mouth_27,JI0027,HC_27,HC
-SRR13261728,saliva,periodontitis negative,Mouth_26,JI0026,HC_26,HC
-SRR13261730,saliva,periodontitis positive,Mouth_24,JI0024,HC_24,HC
-SRR13261732,saliva,periodontitis positive,Mouth_22,JI0022,HC_22,HC
-SRR13261734,saliva,periodontitis positive,Mouth_3,JI0003,HC_03,HC
-SRR13261736,saliva,periodontitis negative,Mouth_19,JI0019,HC_19,HC
-SRR13261738,saliva,periodontitis negative,Mouth_17,JI0017,HC_17,HC
-SRR13261740,saliva,periodontitis positive,Mouth_15,JI0015,HC_15,HC
-SRR13261742,saliva,periodontitis negative,Mouth_13,JI0013,HC_13,HC
-SRR13261747,saliva,periodontitis positive,Mouth_11,JI0011,HC_11,HC
-SRR13261750,saliva,periodontitis positive,UCMouth_38,JI0105,UC_38,UC
-SRR13261752,saliva,periodontitis positive,UCMouth_36,JI0103,UC_36,UC
-SRR13261753,saliva,periodontitis negative,UCMouth_35,JI0102,UC_35,UC
-SRR13261757,saliva,periodontitis positive,UCMouth_31,JI0098,UC_31,UC
-SRR13261759,saliva,periodontitis positive,Mouth_10,JI0010,HC_10,HC
-SRR13261761,saliva,periodontitis positive,UCMouth_28,JI0095,UC_28,UC
-SRR13261763,saliva,periodontitis positive,UCMouth_26,JI0093,UC_26,UC
-SRR13261765,saliva,periodontitis positive,UCMouth_24,JI0090,UC_24,UC
-SRR13261768,saliva,periodontitis positive,UCMouth_21,JI0087,UC_21,UC
-SRR13261770,saliva,periodontitis positive,Mouth_9,JI0009,HC_09,HC
-SRR13261772,saliva,periodontitis positive,UCMouth_18,JI0084,UC_18,UC
-SRR13261775,saliva,periodontitis negative,UCMouth_15,JI0081,UC_15,UC
-SRR13261777,saliva,periodontitis negative,UCMouth_13,JI0079,UC_13,UC
-SRR13261779,saliva,periodontitis positive,UCMouth_11,JI0077,UC_11,UC
-SRR13261781,saliva,periodontitis positive,Mouth_8,JI0008,HC_08,HC
-SRR13261783,saliva,periodontitis negative,UCMouth_8,JI0074,UC_08,UC
-SRR13261785,saliva,periodontitis negative,UCMouth_6,JI0072,UC_06,UC
-SRR13261786,saliva,periodontitis positive,UCMouth_5,JI0071,UC_05,UC
-SRR13261789,saliva,periodontitis negative,UCMouth_2,JI0068,UC_02,UC
-SRR13261791,saliva,periodontitis negative,CDMouth_16,JI0064,CD_16,CD
-SRR13261793,saliva,periodontitis negative,CDMouth_15,JI0063,CD_15,CD
-SRR13261796,saliva,periodontitis positive,CDMouth_12,JI0060,CD_12,CD
-SRR13261800,saliva,periodontitis positive,CDMouth_8,JI0055,CD_08,CD
-SRR13261801,saliva,periodontitis positive,CDMouth_7,JI0054,CD_07,CD
-SRR13261803,saliva,periodontitis negative,Mouth_6,JI0006,HC_06,HC
-SRR13261805,saliva,periodontitis negative,CDMouth_4,JI0050,CD_04,CD
-SRR13261808,saliva,periodontitis positive,CDMouth_1,JI0047,CD_01,CD
-SRR13261810,saliva,periodontitis positive,Mouth_44,JI0045,HC_44,HC
-SRR13261813,saliva,periodontitis negative,Mouth_41,JI0042,HC_41,HC
-SRR13261815,saliva,periodontitis negative,Mouth_40,JI0041,HC_40,HC
-SRR13261817,saliva,periodontitis negative,Mouth_38,JI0039,HC_38,HC
-SRR13261819,saliva,periodontitis negative,Mouth_1,JI0001,HC_01,HC
-SRR13261719,saliva,periodontitis positive,Mouth_34,JI0034,HC_34,HC
-SRR13261721,saliva,periodontitis positive,Mouth_32,JI0032,HC_32,HC
-SRR13261723,saliva,periodontitis negative,Mouth_4,JI0004,HC_04,HC
-SRR13261729,saliva,periodontitis positive,Mouth_25,JI0025,HC_25,HC
-SRR13261731,saliva,periodontitis positive,Mouth_23,JI0023,HC_23,HC
-SRR13261733,saliva,periodontitis negative,Mouth_21,JI0021,HC_21,HC
-SRR13261735,saliva,periodontitis positive,Mouth_20,JI0020,HC_20,HC
-SRR13261737,saliva,periodontitis negative,Mouth_18,JI0018,HC_18,HC
-SRR13261739,saliva,periodontitis positive,Mouth_16,JI0016,HC_16,HC
-SRR13261741,saliva,periodontitis positive,Mouth_14,JI0014,HC_14,HC
-SRR13261743,saliva,periodontitis negative,Mouth_12,JI0012,HC_12,HC
-SRR13261744,saliva,periodontitis positive,UCMouth_42,JI0111,UC_42,UC
-SRR13261745,saliva,periodontitis positive,UCMouth_41,JI0108,UC_41,UC
-SRR13261746,saliva,periodontitis positive,UCMouth_40,JI0107,UC_40,UC
-SRR13261748,saliva,periodontitis negative,Mouth_2,JI0002,HC_02,HC
-SRR13261749,saliva,periodontitis positive,UCMouth_39,JI0106,UC_39,UC
-SRR13261751,saliva,periodontitis negative,UCMouth_37,JI0104,UC_37,UC
-SRR13261754,saliva,periodontitis negative,UCMouth_34,JI0101,UC_34,UC
-SRR13261755,saliva,periodontitis positive,UCMouth_33,JI0100,UC_33,UC
-SRR13261756,saliva,periodontitis positive,UCMouth_32,JI0099,UC_32,UC
-SRR13261758,saliva,periodontitis negative,UCMouth_30,JI0097,UC_30,UC
-SRR13261760,saliva,periodontitis negative,UCMouth_29,JI0096,UC_29,UC
-SRR13261762,saliva,periodontitis negative,UCMouth_27,JI0094,UC_27,UC
-SRR13261764,saliva,periodontitis positive,UCMouth_25,JI0091,UC_25,UC
-SRR13261766,saliva,periodontitis negative,UCMouth_23,JI0089,UC_23,UC
-SRR13261767,saliva,periodontitis positive,UCMouth_22,JI0088,UC_22,UC
-SRR13261769,saliva,periodontitis positive,UCMouth_20,JI0086,UC_20,UC
-SRR13261771,saliva,periodontitis positive,UCMouth_19,JI0085,UC_19,UC
-SRR13261773,saliva,periodontitis negative,UCMouth_17,JI0083,UC_17,UC
-SRR13261774,saliva,periodontitis positive,UCMouth_16,JI0082,UC_16,UC
-SRR13261776,saliva,periodontitis negative,UCMouth_14,JI0080,UC_14,UC
-SRR13261778,saliva,periodontitis negative,UCMouth_12,JI0078,UC_12,UC
-SRR13261780,saliva,periodontitis positive,UCMouth_10,JI0076,UC_10,UC
-SRR13261782,saliva,periodontitis positive,UCMouth_9,JI0075,UC_09,UC
-SRR13261784,saliva,periodontitis negative,UCMouth_7,JI0073,UC_07,UC
-SRR13261787,saliva,periodontitis negative,UCMouth_4,JI0070,UC_04,UC
-SRR13261788,saliva,periodontitis negative,UCMouth_3,JI0069,UC_03,UC
-SRR13261790,saliva,periodontitis negative,UCMouth_1,JI0067,UC_01,UC
-SRR13261792,saliva,periodontitis negative,Mouth_7,JI0007,HC_07,HC
-SRR13261794,saliva,periodontitis positive,CDMouth_14,JI0062,CD_14,CD
-SRR13261795,saliva,periodontitis negative,CDMouth_13,JI0061,CD_13,CD
-SRR13261797,saliva,periodontitis negative,CDMouth_11,JI0059,CD_11,CD
-SRR13261798,saliva,periodontitis positive,CDMouth_10,JI0058,CD_10,CD
-SRR13261799,saliva,periodontitis positive,CDMouth_9,JI0057,CD_09,CD
-SRR13261802,saliva,periodontitis positive,CDMouth_6,JI0053,CD_06,CD
-SRR13261804,saliva,periodontitis negative,CDMouth_5,JI0052,CD_05,CD
-SRR13261806,saliva,periodontitis positive,CDMouth_3,JI0049,CD_03,CD
-SRR13261807,saliva,periodontitis positive,CDMouth_2,JI0048,CD_02,CD
-SRR13261809,saliva,periodontitis negative,Mouth_45,JI0046,HC_45,HC
-SRR13261811,saliva,periodontitis negative,Mouth_43,JI0044,HC_43,HC
-SRR13261812,saliva,periodontitis negative,Mouth_42,JI0043,HC_42,HC
-SRR13261814,saliva,periodontitis positive,Mouth_5,JI0005,HC_05,HC
-SRR13261816,saliva,periodontitis negative,Mouth_39,JI0040,HC_39,HC
-SRR13261818,saliva,periodontitis positive,Mouth_37,JI0038,HC_37,HC
+SRA,SubjectID,Timepoint,Antibiotic,AntibioticWhen,OralFraction
+ERR2888357,A,Day 11,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0
+ERR2888358,A,Day 17,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.084392173
+ERR2888359,A,Day 22,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",5.03E-05
+ERR2888360,A,Day 29,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.003963311
+ERR2888361,A,Day 74,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.369304891
+ERR2888362,A,Day 81,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.045658104
+ERR2888363,A,Day 85,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",9.41E-05
+ERR2888364,A,Day 91,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.062396711
+ERR2888365,A,Day 99,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.031619108
+ERR2888366,A,Day 119,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0
+ERR2888367,A,Day 133,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.000461191
+ERR2888368,A,Day 147,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0
+ERR2888369,A,Day 154,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0
+ERR2888370,A,Day 168,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0
+ERR2888371,A,Day 204,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",7.97E-05
+ERR2888372,A,Day 11,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",1.63E-05
+ERR2888373,A,Day 17,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.086447589
+ERR2888374,A,Day 22,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.000158307
+ERR2888375,A,Day 29,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.00422114
+ERR2888376,A,Day 74,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.367829622
+ERR2888377,A,Day 81,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.045292605
+ERR2888378,A,Day 85,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.000105387
+ERR2888379,A,Day 91,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.062757935
+ERR2888380,A,Day 99,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.031429992
+ERR2888381,A,Day 119,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0
+ERR2888382,A,Day 133,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0.000549743
+ERR2888383,A,Day 147,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0
+ERR2888384,A,Day 154,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0
+ERR2888385,A,Day 168,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",0
+ERR2888386,A,Day 204,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 29,,,",9.61E-05
+ERR2888387,B,Day 7,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.00115789
+ERR2888388,B,Day 10,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.001464243
+ERR2888389,B,Day 19,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.013649053
+ERR2888390,B,Day 23,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",2.67E-05
+ERR2888391,B,Day 30,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.000148719
+ERR2888392,B,Day 40,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.000121411
+ERR2888393,B,Day 131,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.005324061
+ERR2888394,B,Day 7,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.001142488
+ERR2888395,B,Day 10,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.001467706
+ERR2888396,B,Day 19,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.014097904
+ERR2888397,B,Day 23,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",6.15E-05
+ERR2888398,B,Day 30,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.000252211
+ERR2888399,B,Day 40,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.000115507
+ERR2888400,B,Day 131,"SGD(oral)--polymyxin/neomycin,amphotericin B,Voriconazole","From day 0 to day 28,",0.005484295
+ERR2888401,C,Day 4,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.013476064
+ERR2888402,C,Day 12,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",4.99E-05
+ERR2888403,C,Day 16,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.016422578
+ERR2888404,C,Day 23,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.001493885
+ERR2888405,C,Day 32,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.04968144
+ERR2888406,C,Day 46,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.040806199
+ERR2888407,C,Day 82,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.005183192
+ERR2888408,C,Day 116,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.085535717
+ERR2888409,C,Day 131,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.002338181
+ERR2888410,C,Day 4,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.014035409
+ERR2888411,C,Day 12,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",8.26E-05
+ERR2888412,C,Day 16,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.016720859
+ERR2888413,C,Day 23,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.00155427
+ERR2888414,C,Day 32,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.049858281
+ERR2888415,C,Day 46,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.041943069
+ERR2888416,C,Day 82,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.005804275
+ERR2888417,C,Day 116,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.085874061
+ERR2888418,C,Day 131,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 29,,",0.002438949
+ERR2888419,D,Day 3,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000710926
+ERR2888420,D,Day 11,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0
+ERR2888421,D,Day 15,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000295956
+ERR2888422,D,Day 18,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000223629
+ERR2888423,D,Day 25,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",3.80E-05
+ERR2888424,D,Day 32,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000221679
+ERR2888425,D,Day 62,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.00209061
+ERR2888426,D,Day 77,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000236192
+ERR2888427,D,Day 3,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000691096
+ERR2888428,D,Day 11,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000106374
+ERR2888429,D,Day 15,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000302196
+ERR2888430,D,Day 18,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000290069
+ERR2888431,D,Day 25,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0
+ERR2888432,D,Day 32,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000198182
+ERR2888433,D,Day 62,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.002009559
+ERR2888434,D,Day 77,"SGD(oral)--polymyxin/neomycin,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.000196533
+ERR2888435,E,Day 12,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.001698
+ERR2888436,E,Day 19,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.000307494
+ERR2888437,E,Day 26,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.000739809
+ERR2888438,E,Day 49,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.014221612
+ERR2888439,E,Day 54,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.085752329
+ERR2888440,E,Day 68,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.002175454
+ERR2888441,E,Day 109,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.046767892
+ERR2888442,E,Day 12,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.001755343
+ERR2888443,E,Day 19,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.000261571
+ERR2888444,E,Day 26,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.000848387
+ERR2888445,E,Day 49,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.014860308
+ERR2888446,E,Day 54,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.093039919
+ERR2888447,E,Day 68,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.002365961
+ERR2888448,E,Day 109,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 21,,",0.047453308
+ERR2888449,F,Day 26,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.000108472
+ERR2888450,F,Day 37,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.000866321
+ERR2888451,F,Day 40,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.000745707
+ERR2888452,F,Day 116,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.001439147
+ERR2888453,F,Day 180,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.002511593
+ERR2888454,F,Day 26,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.000102889
+ERR2888455,F,Day 37,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.000742332
+ERR2888456,F,Day 40,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.000693903
+ERR2888457,F,Day 116,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.001507573
+ERR2888458,F,Day 180,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 37,,",0.001815872
+ERR2888459,G,Day 8,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.000508162
+ERR2888460,G,Day 19,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.004027844
+ERR2888461,G,Day 21,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.000179174
+ERR2888462,G,Day 26,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.000332718
+ERR2888463,G,Day 35,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.043086918
+ERR2888464,G,Day 49,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.001225253
+ERR2888465,G,Day 111,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.019099456
+ERR2888466,G,Day 8,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.000615358
+ERR2888467,G,Day 19,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.003905543
+ERR2888468,G,Day 21,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.000231115
+ERR2888469,G,Day 26,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.000474143
+ERR2888470,G,Day 35,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.042348148
+ERR2888471,G,Day 49,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.001328763
+ERR2888472,G,Day 111,"SGD(oral)--polymyxin/neomycin,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 26,,",0.019071827
+ERR2888473,H,Day 29,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 23,,,",0.262209733
+ERR2888474,H,Day 64,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 23,,,",0.013647908
+ERR2888475,H,Day 93,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 23,,,",0.000922811
+ERR2888476,H,Day 128,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 23,,,",0.027003712
+ERR2888477,H,Day 29,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 23,,,",0.26023592
+ERR2888478,H,Day 64,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 23,,,",0.013093018
+ERR2888479,H,Day 93,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 23,,,",0.000894684
+ERR2888480,H,Day 128,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 23,,,",0.02663737
+ERR2888481,I,Day 0,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 30,,,",0.010053047
+ERR2888482,I,Day 7,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 30,,,",0.37181843
+ERR2888483,I,Day 24,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 30,,,",0.027845367
+ERR2888484,I,Day 0,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 30,,,",0.009781352
+ERR2888485,I,Day 7,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 30,,,",0.376414387
+ERR2888486,I,Day 24,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 30,,,",0.028185639
+ERR2888487,J,Day 6,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.010849711
+ERR2888488,J,Day 11,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.076660592
+ERR2888489,J,Day 18,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.006966008
+ERR2888490,J,Day 46,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.266455711
+ERR2888491,J,Day 64,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.695100098
+ERR2888492,J,Day 6,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.010632367
+ERR2888493,J,Day 11,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.076812409
+ERR2888494,J,Day 18,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.007069401
+ERR2888495,J,Day 46,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.268495496
+ERR2888496,J,Day 64,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.695698078
+ERR2888497,K,Day 30,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.64256089
+ERR2888498,K,Day 47,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.065160907
+ERR2888499,K,Day 78,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.001522729
+ERR2888500,K,Day 100,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.005422921
+ERR2888501,K,Day 127,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.080800024
+ERR2888502,K,Day 163,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.000266877
+ERR2888503,K,Day 212,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.000391087
+ERR2888504,K,Day 30,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.633828517
+ERR2888505,K,Day 47,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.065868676
+ERR2888506,K,Day 78,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.001449215
+ERR2888507,K,Day 100,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.005712902
+ERR2888508,K,Day 127,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.081597599
+ERR2888509,K,Day 163,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.000326721
+ERR2888510,K,Day 212,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 30,,,",0.000479564
+ERR2888511,L,Day 3,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.003364782
+ERR2888512,L,Day 6,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.001562144
+ERR2888513,L,Day 30,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.096048398
+ERR2888514,L,Day 31,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.123202181
+ERR2888515,L,Day 49,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.018320708
+ERR2888516,L,Day 61,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.012865485
+ERR2888517,L,Day 69,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.009904042
+ERR2888518,L,Day 83,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.068401946
+ERR2888519,L,Day 97,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.006575586
+ERR2888520,L,Day 111,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.030207141
+ERR2888521,L,Day 125,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.054718191
+ERR2888522,L,Day 3,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.00310945
+ERR2888523,L,Day 6,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.001574399
+ERR2888524,L,Day 30,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.094070894
+ERR2888525,L,Day 31,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.12190462
+ERR2888526,L,Day 49,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.018004384
+ERR2888527,L,Day 61,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.012794766
+ERR2888528,L,Day 69,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.009952495
+ERR2888529,L,Day 83,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.066591507
+ERR2888530,L,Day 97,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.006307538
+ERR2888531,L,Day 111,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.030682295
+ERR2888532,L,Day 125,"TGD(oral)--piperacillin/tazobactam,amphotericin B",From day 0 to day 32,0.055740585
+ERR2888533,M,Day 11,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.164317015
+ERR2888534,M,Day 29,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.677363987
+ERR2888535,M,Day 81,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.159931835
+ERR2888536,M,Day 95,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.013278487
+ERR2888537,M,Day 151,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.096392877
+ERR2888538,M,Day 11,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.165256273
+ERR2888539,M,Day 29,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.674615379
+ERR2888540,M,Day 81,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.158620815
+ERR2888541,M,Day 95,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.013217655
+ERR2888542,M,Day 151,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Voriconazole","From day 0 to day 40,,",0.097470166
+ERR2888543,N,Day 8,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.00827189
+ERR2888544,N,Day 10,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.010656732
+ERR2888545,N,Day 14,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.011043136
+ERR2888546,N,Day 28,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.002131114
+ERR2888547,N,Day 85,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.002960198
+ERR2888548,N,Day 8,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.00850986
+ERR2888549,N,Day 10,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.01103017
+ERR2888550,N,Day 14,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.010994913
+ERR2888551,N,Day 28,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.002328508
+ERR2888552,N,Day 85,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime,Voriconazole","From day 0 to day 28,,,",0.003054265
+ERR2888553,O,Day 12,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 30,,",0.162022429
+ERR2888554,O,Day 19,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 30,,",0.57851104
+ERR2888555,O,Day 33,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 30,,",0.00204906
+ERR2888556,O,Day 39,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 30,,",0.012661394
+ERR2888557,O,Day 12,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 30,,",0.162711892
+ERR2888558,O,Day 19,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 30,,",0.57411114
+ERR2888559,O,Day 33,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 30,,",0.002012977
+ERR2888560,O,Day 39,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 30,,",0.0129469
+ERR2888561,P,Day 18,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 49,,,",0.188330881
+ERR2888562,P,Day 53,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 49,,,",0.088220244
+ERR2888563,P,Day 115,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 49,,,",0.003377386
+ERR2888564,P,Day 122,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 49,,,",0.015950744
+ERR2888565,P,Day 18,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 49,,,",0.189073963
+ERR2888566,P,Day 53,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 49,,,",0.085768123
+ERR2888567,P,Day 115,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 49,,,",0.003123012
+ERR2888568,P,Day 122,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 49,,,",0.016073324
+ERR2888569,Q,Day 0,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.003130944
+ERR2888570,Q,Day 3,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.003892065
+ERR2888571,Q,Day 10,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.209450407
+ERR2888572,Q,Day 17,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.38852318
+ERR2888573,Q,Day 31,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.403141457
+ERR2888574,Q,Day 0,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.003155279
+ERR2888575,Q,Day 3,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.003934859
+ERR2888576,Q,Day 10,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.213702741
+ERR2888577,Q,Day 17,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.38671912
+ERR2888578,Q,Day 31,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 35,,,",0.402540599
+ERR2888579,R,Day 0,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 31,,,",0.001135685
+ERR2888580,R,Day 14,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 31,,,",0.253574454
+ERR2888581,R,Day 64,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 31,,,",0.181983395
+ERR2888582,R,Day 0,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 31,,,",0.001118068
+ERR2888583,R,Day 14,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 31,,,",0.256960684
+ERR2888584,R,Day 64,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Amoxicillin,Vancomycin,Ceftazidime","From day 0 to day 31,,,",0.179983296
+ERR2888585,S,Day 11,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.000869325
+ERR2888586,S,Day 32,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",1.20E-05
+ERR2888587,S,Day 39,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.078073276
+ERR2888588,S,Day 53,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.067928567
+ERR2888589,S,Day 68,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.005685659
+ERR2888590,S,Day 117,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.03709414
+ERR2888591,S,Day 11,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.000844953
+ERR2888592,S,Day 32,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0
+ERR2888593,S,Day 39,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.07994979
+ERR2888594,S,Day 53,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.06784195
+ERR2888595,S,Day 68,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.006098341
+ERR2888596,S,Day 117,"TGD(oral)--piperacillin/tazobactam,amphotericin B,Vancomycin,Ceftazidime","From day 0 to day 36,,",0.036869842

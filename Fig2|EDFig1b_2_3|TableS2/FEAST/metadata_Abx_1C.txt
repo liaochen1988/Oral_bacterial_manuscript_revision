@@ -1,4 +1,0 @@
-SampleID	Env	SourceSink	id
-KP_Exp_8_D0_AVN3	Abx_1C: fecal sample before treatment (Antibiotic)	Source	NA
-KP_Exp_8_D0_OR_AVN3	Abx_1C: oral sample before treatment (Antibiotic)	Source	NA
-KP_Exp_8_D8_AVN3	Abx_1C: fecal sample at w1 post treatment (Antibiotic)	Sink	1

@@ -1,2 +1,0 @@
-"KP_Exp_8_D0_AVN3_Abx_1C: fecal sample before treatment (Antibiotic)"	"KP_Exp_8_D0_OR_AVN3_Abx_1C: oral sample before treatment (Antibiotic)"	"Unknown"
-"KP_Exp_8_D8_AVN3_Abx_1C: fecal sample at w1 post treatment (Antibiotic)"	0.00152250207784627	0.113758048674004	0.88471944924815
